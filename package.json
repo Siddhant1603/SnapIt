@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clerk/clerk-react": "^5.59.4",
+    "@reduxjs/toolkit": "^2.11.2",
+    "@tailwindcss/postcss": "^4.1.18",
+    "axios": "^1.13.2",
+    "bootstrap": "^5.3.8",
+    "react": "^19.2.3",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.2.3",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.14.2",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.16.3"
+  }
+}
